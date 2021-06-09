@@ -1,0 +1,12 @@
+body {
+    background-color: blue;
+
+}
+#first{
+    height: 300px;
+    width: 300px;
+    border: 2px solid white;
+    background-image: url("https://goo.gl/ximnAL");
+    background-size: 240px 240px;
+    background-position: center center;
+}
